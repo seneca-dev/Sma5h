@@ -1,0 +1,7 @@
+@import "~@angular/material/prebuilt-themes/purple-green.css";
+
+body{
+    background: url(./assets/smash_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
